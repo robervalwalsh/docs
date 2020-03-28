@@ -18,5 +18,11 @@
 
 - [tidy-markdown](https://atom.io/packages/tidy-markdown)
    - :warning: 1st sub-bullet spacing with respect to previous parent bullet is sometimes double(?) :warning:
-   - Activation in **'Packages -> Tidy Markdown'**
-   - Can be run on **'Save'** (unsafe)
+   - Menu: **'Packages -> Tidy Markdown'**
+   - Settings: Can be run on **'Save'** (unsafe, see first bullet)
+
+## html
+
+- [atom-html-preview](https://atom.io/packages/atom-html-preview)
+   - Shortcut: **ctrl+shift+H**
+   - Menu: **'Packages -> Preview HTML'**
