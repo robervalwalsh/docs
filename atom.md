@@ -19,6 +19,11 @@
   - toggle preview: **ctrl+shit+M**
   - Github style: preview for Github
 
+- [markdown-preview-plus](https://atom.io/packages/markdown-preview-plus)
+  - disables atom markdown preview (above); no Github style
+  - toggle preview: **ctrl+shit+M**
+  - toggle math rendering: **ctrl+shift+X**
+
 - [markdown-table-editor](https://atom.io/packages/markdown-table-editor) :beer: :beer: :beer: :beer: :beer:
 
 
