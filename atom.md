@@ -1,5 +1,12 @@
 # atom cheat sheet
 
+
+## useful
+
+- Prevent text wrap
+   - Works only on a file-by-file basis :(
+   - Menu: **View -> Toggle Soft Wrap**
+
 ## terminal
 
 - [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
