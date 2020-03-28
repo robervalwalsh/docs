@@ -40,3 +40,7 @@
 - [atom-html-preview](https://atom.io/packages/atom-html-preview) :beer::beer::beer:
    - Shortcut: **ctrl+shift+H**
    - Menu: **'Packages -> Preview HTML'**
+
+## programming
+
+- [script](https://atom.io/packages/script)
