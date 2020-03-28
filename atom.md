@@ -22,6 +22,9 @@
 
 ## html
 
+- [browser-plus](https://atom.io/packages/browser-plus) :beer: :beer:
+   - A browser in atom
+   - Shortcut: **ctrl+alt+O**
 - [atom-html-preview](https://atom.io/packages/atom-html-preview) :beer::beer::beer:
    - Shortcut: **ctrl+shift+H**
    - Menu: **'Packages -> Preview HTML'**
