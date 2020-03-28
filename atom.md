@@ -1,4 +1,4 @@
-# atom packages and instructions
+# atom cheat sheet
 
 ## terminal
 
