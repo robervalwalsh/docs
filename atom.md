@@ -12,8 +12,7 @@
   - toggle preview: **ctrl+shit+M**
   - Github style: preview for Github
 
-
-- [markdown-table-editor](https://atom.io/packages/markdown-table-editor)
+- [markdown-table-editor](https://atom.io/packages/markdown-table-editor) :beer: :beer: :beer: :beer: :beer:
 
 
 - [tidy-markdown](https://atom.io/packages/tidy-markdown)
@@ -23,6 +22,6 @@
 
 ## html
 
-- [atom-html-preview](https://atom.io/packages/atom-html-preview)
+- [atom-html-preview](https://atom.io/packages/atom-html-preview) :beer::beer::beer:
    - Shortcut: **ctrl+shift+H**
    - Menu: **'Packages -> Preview HTML'**
