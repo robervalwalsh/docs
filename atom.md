@@ -32,6 +32,9 @@
    - Menu: **'Packages -> Tidy Markdown'**
    - Settings: Can be run on **'Save'** (unsafe, see first bullet)
 
+- [pandoc-convert](https://atom.io/packages/pandoc-convert)
+   - Shortcut: **cmd+shift+P**  (for the pallete, then search *pandoc convert* and select the desired conversion )
+
 ## html
 
 - [browser-plus](https://atom.io/packages/browser-plus) :beer: :beer:
