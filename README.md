@@ -1,3 +1,3 @@
 # docs
 
-{% include_relative test.md %}
+{% include test.md %}
